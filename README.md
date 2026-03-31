@@ -202,8 +202,26 @@ npm run build
 
 ## License
 
-MIT License - Feel free to use this template for your own portfolio!
+### Code - MIT License
+The React application code in this repository is released under the **MIT License**. You are free to:
+- ✅ Use the code for personal or commercial projects
+- ✅ Modify and customize it
+- ✅ Distribute and redistribute it
+- ✅ Use it as a template for your own portfolio
 
-## Author
+See [LICENSE](LICENSE) file for details.
 
-&copy; Caitlin Sisilli 2026
+### Photographs - All Rights Reserved
+The photographs in `/client/public/photos/` directory are the exclusive intellectual property of **Caitlin Sisilli** and are protected by copyright law.
+
+You may NOT:
+- ❌ Use photographs commercially
+- ❌ Reproduce or distribute photographs
+- ❌ Modify or alter photographs
+- ❌ Use photographs for any purpose without permission
+
+**© 2026 Caitlin Sisilli. All Rights Reserved.**
+
+### Summary
+- **Code**: Use freely (MIT License)
+- **Photos**: Copyright protected - viewed in portfolio only
