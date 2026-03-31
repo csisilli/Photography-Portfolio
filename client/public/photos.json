@@ -180,6 +180,36 @@
       "width": 600,
       "height": 400,
       "description": "This photo showcases the natural beauty of open grassland."
+    },
+    {
+      "id": 14,
+      "name": "nature_bridge_river",
+      "title": "Bridge Over River",
+      "src": "/photos/bridgewriver.jpg",
+      "alt": "A bridge spanning across a river",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the beauty of a bridge crossing a peaceful river."
+    },
+    {
+      "id": 15,
+      "name": "nature_mountain_river_view",
+      "title": "Mountain River View",
+      "src": "/photos/mountainwithriverview.jpg",
+      "alt": "Mountains overlooking a river valley",
+      "width": 600,
+      "height": 400,
+      "description": "This photo showcases the stunning views of mountains with a river below."
+    },
+    {
+      "id": 16,
+      "name": "nature_river_vista",
+      "title": "River Vista",
+      "src": "/photos/riverview.jpg",
+      "alt": "A scenic view of a river landscape",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the serene beauty of a river landscape."
     }
   ],
   "animals": [
@@ -222,6 +252,16 @@
       "width": 600,
       "height": 400,
       "description": "This photo captures the calm and serenity of the ocean."
+    },
+    {
+      "id": 5,
+      "name": "animal_wildlife",
+      "title": "Wildlife Moment",
+      "src": "/photos/image.jpg",
+      "alt": "A wildlife photograph",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures a beautiful moment in wildlife photography."
     }
   ],
   "flowers": [
@@ -234,6 +274,56 @@
       "width": 260,
       "height": 350,
       "description": "This photo showcases the vibrant colors of beautiful flowers."
+    },
+    {
+      "id": 2,
+      "name": "flower_dark_pink",
+      "title": "Dark Pink Flower",
+      "src": "/photos/darkpinkflowern.jpg",
+      "alt": "A beautiful dark pink flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo showcases the elegant beauty of a dark pink flower."
+    },
+    {
+      "id": 3,
+      "name": "flower_pink_yellow",
+      "title": "Pink and Yellow Blooms",
+      "src": "/photos/flowerpinkandyellow.jpg",
+      "alt": "Pink and yellow flowers together",
+      "width": 260,
+      "height": 350,
+      "description": "This photo captures the delightful contrast of pink and yellow flowers."
+    },
+    {
+      "id": 4,
+      "name": "flower_pink",
+      "title": "Pink Petals",
+      "src": "/photos/pinkflower.jpg",
+      "alt": "A delicate pink flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo showcases the gentle beauty of pink flower petals."
+    },
+    {
+      "id": 5,
+      "name": "flower_purple",
+      "title": "Purple Blossom",
+      "src": "/photos/purpleflower.jpg",
+      "alt": "A vibrant purple flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo captures the rich beauty of a purple flower blossom."
+    },
+    {
+      "id": 6,
+      "name": "flower_red",
+      "title": "Red Bloom",
+      "src": "/photos/redflower.jpg",
+      "alt": "A striking red flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo showcases the bold beauty of a red flower in full bloom."
     }
   ],
   "lifemoments": [
