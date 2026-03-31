@@ -1,0 +1,123 @@
+{
+  "ireland": [
+    {
+      "id": 1,
+      "title": "Water",
+      "src": "/photos/ireland.jpg",
+      "alt": "A photo of water on a cliff",
+      "width": 600,
+      "height": 300,
+      "description": "This photo was taken in Ireland. This photo represents the beauty of Ireland."
+    },
+    {
+      "id": 2,
+      "title": "Sea",
+      "src": "/photos/ireland1.jpg",
+      "alt": "A photo of the ocean with a cliff nearby",
+      "width": 700,
+      "height": 350,
+      "description": "This photo was taken in Ireland. This photo represents the beauty of Ireland."
+    },
+    {
+      "id": 3,
+      "title": "Calm",
+      "src": "/photos/ireland2.jpg",
+      "alt": "A photo of a cliff",
+      "width": 800,
+      "height": 450,
+      "description": "This photo was taken in Ireland. This photo represents the beauty of Ireland."
+    },
+    {
+      "id": 4,
+      "title": "Ocean",
+      "src": "/photos/ireland4.jpg",
+      "alt": "A photo of an ocean",
+      "width": 600,
+      "height": 450,
+      "description": "This photo was taken in Ireland. This photo represents the beauty of Ireland."
+    },
+    {
+      "id": 5,
+      "title": "Light",
+      "src": "/photos/ireland3.jpg",
+      "alt": "A photo of the ocean with a cliff",
+      "width": 800,
+      "height": 500,
+      "description": "This photo was taken in Ireland. This photo represents the beauty of Ireland."
+    }
+  ],
+  "natural": [
+    {
+      "id": 1,
+      "title": "Water",
+      "src": "/photos/fall.jpg",
+      "alt": "A mountain with a view of the sky",
+      "width": 500,
+      "height": 400,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 2,
+      "title": "Cloudy",
+      "src": "/photos/sky1.jpg",
+      "alt": "A cloudy mountain landscape",
+      "width": 400,
+      "height": 300,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 3,
+      "title": "Sky",
+      "src": "/photos/sky.jpg",
+      "alt": "A beautiful sky view",
+      "width": 400,
+      "height": 300,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 4,
+      "title": "Enchantment",
+      "src": "/photos/pretty.jpg",
+      "alt": "A picture of a hidden area outside by a house",
+      "width": 485,
+      "height": 600,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 5,
+      "title": "Butterfly",
+      "src": "/photos/butter.jpg",
+      "alt": "A picture of a butterfly",
+      "width": 275,
+      "height": 300,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 6,
+      "title": "Quiet",
+      "src": "/photos/bridge.jpg",
+      "alt": "A picture of a bridge",
+      "width": 475,
+      "height": 650,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 7,
+      "title": "Colorful",
+      "src": "/photos/flower.jpg",
+      "alt": "A close up picture of a red and yellow flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 8,
+      "title": "Water Fall",
+      "src": "/photos/water.jpg",
+      "alt": "A picture of a waterfall",
+      "width": 475,
+      "height": 650,
+      "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    }
+  ]
+}
