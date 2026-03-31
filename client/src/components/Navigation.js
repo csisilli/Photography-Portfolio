@@ -14,7 +14,10 @@ function Navigation() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             <Nav.Link as={Link} to="/">Home</Nav.Link>
+            <Nav.Link as={Link} to="/galleries/animals">Animal Gallery</Nav.Link>
+            <Nav.Link as={Link} to="/galleries/flowers">Flower Gallery</Nav.Link>
             <Nav.Link as={Link} to="/galleries/ireland">Ireland Gallery</Nav.Link>
+            <Nav.Link as={Link} to="/galleries/lifemoments">Moments of Life</Nav.Link>
             <Nav.Link as={Link} to="/galleries/natural">Natural Gallery</Nav.Link>
           </Nav>
         </Navbar.Collapse>

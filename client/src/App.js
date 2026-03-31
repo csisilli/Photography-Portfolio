@@ -5,6 +5,9 @@ import Footer from './components/Footer';
 import Home from './pages/Home';
 import IrelandGallery from './pages/IrelandGallery';
 import NaturalGallery from './pages/NaturalGallery';
+import AnimalGallery from './pages/AnimalGallery';
+import FlowerGallery from './pages/FlowerGallery';
+import LifeMomentsGallery from './pages/LifeMomentsGallery';
 import './App.css';
 
 function App() {
@@ -15,6 +18,9 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/galleries/ireland" element={<IrelandGallery />} />
         <Route path="/galleries/natural" element={<NaturalGallery />} />
+        <Route path="/galleries/animals" element={<AnimalGallery />} />
+        <Route path="/galleries/flowers" element={<FlowerGallery />} />
+        <Route path="/galleries/lifemoments" element={<LifeMomentsGallery />} />
       </Routes>
       <Footer />
     </Router>

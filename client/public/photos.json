@@ -94,16 +94,6 @@
     },
     {
       "id": 5,
-      "name": "nature_delicate_wings",
-      "title": "Delicate Wings",
-      "src": "/photos/butter.jpg",
-      "alt": "A picture of a butterfly",
-      "width": 275,
-      "height": 300,
-      "description": "This photo was taken in New York. It captures the beauty of Orange County."
-    },
-    {
-      "id": 6,
       "name": "nature_bridge_serenity",
       "title": "Bridge Serenity",
       "src": "/photos/bridge.jpg",
@@ -113,22 +103,159 @@
       "description": "This photo was taken in New York. It captures the beauty of Orange County."
     },
     {
-      "id": 7,
-      "title": "Colorful",
-      "src": "/photos/flower.jpg",
-      "alt": "A close up picture of a red and yellow flower",
-      "width": 260,
-      "height": 350,
-      "description": "This photo was taken in New York. It captures the beauty of Orange County."
-    },
-    {
-      "id": 8,
+      "id": 6,
       "title": "Water Fall",
       "src": "/photos/water.jpg",
       "alt": "A picture of a waterfall",
       "width": 475,
       "height": 650,
       "description": "This photo was taken in New York. It captures the beauty of Orange County."
+    },
+    {
+      "id": 7,
+      "name": "nature_lakeside_moment",
+      "title": "Lakeside Moment",
+      "src": "/photos/boat lake.jpg",
+      "alt": "A serene lake with boats",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the tranquility of a beautiful lakeside landscape."
+    },
+    {
+      "id": 8,
+      "name": "nature_mountain_range",
+      "title": "Mountain Range",
+      "src": "/photos/mountains.jpg",
+      "alt": "A majestic mountain landscape",
+      "width": 600,
+      "height": 400,
+      "description": "This photo showcases the grandeur of towering mountain peaks."
+    },
+    {
+      "id": 9,
+      "name": "nature_sunny_peaks",
+      "title": "Sunny Peaks",
+      "src": "/photos/sunny mountain.jpg",
+      "alt": "Mountains bathed in sunlight",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures mountains illuminated by warm sunlight."
+    },
+    {
+      "id": 10,
+      "name": "nature_river_flow",
+      "title": "River Flow",
+      "src": "/photos/river.jpg",
+      "alt": "A flowing river through nature",
+      "width": 475,
+      "height": 650,
+      "description": "This photo captures the natural movement and beauty of flowing water."
+    },
+    {
+      "id": 11,
+      "name": "nature_river_bend",
+      "title": "River Bend",
+      "src": "/photos/river2.jpg",
+      "alt": "A winding river landscape",
+      "width": 475,
+      "height": 650,
+      "description": "This photo shows the graceful curves of a meandering river."
+    },
+    {
+      "id": 12,
+      "name": "nature_river_landscape",
+      "title": "River Landscape",
+      "src": "/photos/rivering.jpg",
+      "alt": "A scenic river valley",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the scenic beauty of a river landscape."
+    },
+    {
+      "id": 13,
+      "name": "nature_grassland",
+      "title": "Grassland",
+      "src": "/image/grass.jpg",
+      "alt": "A verdant grassland",
+      "width": 600,
+      "height": 400,
+      "description": "This photo showcases the natural beauty of open grassland."
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "animal_tuna",
+      "title": "Fresh Catch",
+      "src": "/photos/tuna.jpg",
+      "alt": "A picture of a tuna",
+      "width": 600,
+      "height": 400,
+      "description": "This photo showcases the beauty of marine life."
+    },
+    {
+      "id": 2,
+      "name": "animal_tuna_duo",
+      "title": "Tuna Duo",
+      "src": "/photos/2tuna.jpg",
+      "alt": "Two tuna fish",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the presence of multiple tuna fish."
+    },
+    {
+      "id": 3,
+      "name": "animal_delicate_wings",
+      "title": "Delicate Wings",
+      "src": "/photos/butter.jpg",
+      "alt": "A picture of a butterfly",
+      "width": 275,
+      "height": 300,
+      "description": "This photo showcases the delicate beauty of a butterfly."
+    },
+    {
+      "id": 4,
+      "name": "animal_serene_ocean",
+      "title": "Serene Ocean",
+      "src": "/image/ocean.jpg",
+      "alt": "A peaceful ocean view",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the calm and serenity of the ocean."
+    }
+  ],
+  "flowers": [
+    {
+      "id": 1,
+      "name": "flower_colorful",
+      "title": "Colorful",
+      "src": "/photos/flower.jpg",
+      "alt": "A close up picture of a red and yellow flower",
+      "width": 260,
+      "height": 350,
+      "description": "This photo showcases the vibrant colors of beautiful flowers."
+    }
+  ],
+  "lifemoments": [
+    {
+      "id": 1,
+      "name": "moment_chai_time",
+      "title": "Chai Time",
+      "src": "/photos/chai.jpg",
+      "alt": "A warm chai beverage",
+      "width": 400,
+      "height": 500,
+      "description": "This photo captures the warmth and comfort of everyday moments."
+    },
+    {
+      "id": 2,
+      "name": "moment_garden_grid",
+      "title": "Garden Grid",
+      "src": "/photos/grid.jpg",
+      "alt": "An organized flower garden pattern",
+      "width": 600,
+      "height": 400,
+      "description": "This photo captures the beauty of human-created order in nature."
     }
   ]
 }
