@@ -2,7 +2,8 @@
   "ireland": [
     {
       "id": 1,
-      "title": "Water",
+      "name": "ireland_clifftop_waters",
+      "title": "Clifftop Waters",
       "src": "/photos/ireland.jpg",
       "alt": "A photo of water on a cliff",
       "width": 600,
@@ -11,7 +12,8 @@
     },
     {
       "id": 2,
-      "title": "Sea",
+      "name": "ireland_ocean_cliffs",
+      "title": "Ocean Cliffs",
       "src": "/photos/ireland1.jpg",
       "alt": "A photo of the ocean with a cliff nearby",
       "width": 700,
@@ -20,7 +22,8 @@
     },
     {
       "id": 3,
-      "title": "Calm",
+      "name": "ireland_peaceful_cliffside",
+      "title": "Peaceful Cliffside",
       "src": "/photos/ireland2.jpg",
       "alt": "A photo of a cliff",
       "width": 800,
@@ -29,7 +32,8 @@
     },
     {
       "id": 4,
-      "title": "Ocean",
+      "name": "ireland_vast_ocean",
+      "title": "Vast Ocean",
       "src": "/photos/ireland4.jpg",
       "alt": "A photo of an ocean",
       "width": 600,
@@ -38,7 +42,8 @@
     },
     {
       "id": 5,
-      "title": "Light",
+      "name": "ireland_golden_light",
+      "title": "Golden Light",
       "src": "/photos/ireland3.jpg",
       "alt": "A photo of the ocean with a cliff",
       "width": 800,
@@ -49,7 +54,8 @@
   "natural": [
     {
       "id": 1,
-      "title": "Water",
+      "name": "nature_autumn_mountain",
+      "title": "Autumn Mountain",
       "src": "/photos/fall.jpg",
       "alt": "A mountain with a view of the sky",
       "width": 500,
@@ -58,7 +64,8 @@
     },
     {
       "id": 2,
-      "title": "Cloudy",
+      "name": "nature_misty_peaks",
+      "title": "Misty Peaks",
       "src": "/photos/sky1.jpg",
       "alt": "A cloudy mountain landscape",
       "width": 400,
@@ -67,7 +74,8 @@
     },
     {
       "id": 3,
-      "title": "Sky",
+      "name": "nature_clear_skies",
+      "title": "Clear Skies",
       "src": "/photos/sky.jpg",
       "alt": "A beautiful sky view",
       "width": 400,
@@ -76,7 +84,8 @@
     },
     {
       "id": 4,
-      "title": "Enchantment",
+      "name": "nature_garden_retreat",
+      "title": "Garden Retreat",
       "src": "/photos/pretty.jpg",
       "alt": "A picture of a hidden area outside by a house",
       "width": 485,
@@ -85,7 +94,8 @@
     },
     {
       "id": 5,
-      "title": "Butterfly",
+      "name": "nature_delicate_wings",
+      "title": "Delicate Wings",
       "src": "/photos/butter.jpg",
       "alt": "A picture of a butterfly",
       "width": 275,
@@ -94,7 +104,8 @@
     },
     {
       "id": 6,
-      "title": "Quiet",
+      "name": "nature_bridge_serenity",
+      "title": "Bridge Serenity",
       "src": "/photos/bridge.jpg",
       "alt": "A picture of a bridge",
       "width": 475,
