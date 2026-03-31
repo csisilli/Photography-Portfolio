@@ -57,6 +57,7 @@ function Gallery({ title, description, gallery }) {
                     alt={photo.alt}
                     loading="lazy"
                   />
+                  <div className="photo-watermark">@Caitlin Sisilli</div>
                   <p className="photo-description">{photo.description}</p>
                 </div>
               ))

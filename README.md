@@ -200,6 +200,52 @@ npm run build
 - Clear browser cache
 - Run `npm run build` for production version
 
+## 🚀 Deploy to Netlify (Free)
+
+Your portfolio is ready to go live! Here's how to deploy to Netlify for free:
+
+### Option 1: Deploy via GitHub (Recommended - Automatic Updates)
+
+1. **Push to GitHub** (if not already):
+   ```bash
+   cd Photography-Portfolio
+   git add .
+   git commit -m "Add watermark and deploy config"
+   git push origin main
+   ```
+
+2. **Connect to Netlify**:
+   - Go to [netlify.com](https://netlify.com) and sign up (free)
+   - Click **"New site from Git"**
+   - Select **GitHub** and authorize
+   - Choose your **Photography-Portfolio** repository
+   - Netlify auto-detects settings (via `netlify.toml`)
+   - Click **"Deploy site"**
+
+3. **Done!** Your site is live. Every push to GitHub auto-deploys.
+
+### Option 2: Direct Upload (Quick Deploy)
+
+1. **Build your app**:
+   ```bash
+   cd client
+   npm run build
+   ```
+
+2. **Upload to Netlify**:
+   - Go to [netlify.com/drop](https://netlify.com/drop)
+   - Drag & drop the `client/build` folder
+   - Your site is instantly live!
+
+### After Deployment
+
+- Your photos display with the watermark "Caitlin Sisilli"
+- All pages (Home, Ireland Gallery, Natural Gallery) work perfectly
+- It's a fully static site - no server needed
+- You can update photos anytime via `photos.json` and redeploy
+
+**Your site URL will be**: `something.netlify.app` (customizable)
+
 ## License
 
 ### Code - MIT License

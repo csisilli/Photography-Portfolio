@@ -141,6 +141,16 @@
   color: white;
 }
 
+/* Watermark Styles */
+.photo-watermark {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #666;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
 @media (max-width: 768px) {
   .hero-section h1 {
     font-size: 2rem;
@@ -152,5 +162,9 @@
 
   .photo-item img {
     max-width: 100%;
+  }
+
+  .photo-watermark {
+    font-size: 0.85rem;
   }
 }
