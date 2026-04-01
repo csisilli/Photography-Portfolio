@@ -15,6 +15,9 @@ function Home() {
         <div className="navigation-links">
           <Link to="/galleries/ireland">Explore Ireland Gallery</Link>
           <Link to="/galleries/natural">Explore Natural Gallery</Link>
+          <Link to="/galleries/animals">Explore Animals Gallery</Link>
+          <Link to="/galleries/flowers">Explore Flowers Gallery</Link>
+          <Link to="/galleries/lifemoments">Explore Life Moments Gallery</Link>
         </div>
 
         <div className="row mt-5">
@@ -22,11 +25,6 @@ function Home() {
             <div className="card h-100 shadow-sm">
               <div className="card-body">
                 <h3 className="card-title">🌊 Ireland Photography</h3>
-                <p className="card-text">
-                  Discover the breathtaking coastal landscapes and serene water features 
-                  captured during my photography journey in Ireland. Each image tells a story 
-                  of natural beauty and atmospheric wonder.
-                </p>
                 <Link to="/galleries/ireland" className="btn btn-primary">View Gallery</Link>
               </div>
             </div>
@@ -36,12 +34,34 @@ function Home() {
             <div className="card h-100 shadow-sm">
               <div className="card-body">
                 <h3 className="card-title">🌄 Natural Photography</h3>
-                <p className="card-text">
-                  Immerse yourself in the vibrant colors and peaceful moments of nature 
-                  captured in New York. From waterfalls to flowers, these images showcase 
-                  the diverse beauty of the natural world.
-                </p>
                 <Link to="/galleries/natural" className="btn btn-primary">View Gallery</Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 mb-4">
+            <div className="card h-100 shadow-sm">
+              <div className="card-body">
+                <h3 className="card-title">🦁 Animal Photography</h3>
+                <Link to="/galleries/animals" className="btn btn-primary">View Gallery</Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 mb-4">
+            <div className="card h-100 shadow-sm">
+              <div className="card-body">
+                <h3 className="card-title">🌻 Flower Photography</h3>
+                <Link to="/galleries/flowers" className="btn btn-primary">View Gallery</Link>
+              </div>
+            </div>
+          </div>
+
+          <div className="col-md-6 mb-4">
+            <div className="card h-100 shadow-sm">
+              <div className="card-body">
+                <h3 className="card-title">✨ Life Moments</h3>
+                <Link to="/galleries/lifemoments" className="btn btn-primary">View Gallery</Link>
               </div>
             </div>
           </div>
